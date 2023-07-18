@@ -11,13 +11,10 @@ php artisan db:seed person
 php artisan db:seed driver
 php artisan db:seed rent  
 
-
-# 2B Opçãp 2 Rodar tudo de uma vez 
+# 2B Opção 2 Rodar tudo de uma vez 
 php artisan db:seed
 
-
 composer dumpautoload 
-
 
 php artisan serve 
 3. 
